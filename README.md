@@ -1,4 +1,4 @@
-This repository contains software that was used in the study "Reevaluating Passive Haptic Learning" (https://doi.org/10.1145/3341163.3347714). In particular, this is the Arduino code for the bluetooth sender and receiver inside the Rüttelflug wrist band.
+This repository contains software that was used in the study "Reevaluating Passive Haptic Learning of Morse Code" (https://doi.org/10.1145/3341163.3347714). In particular, this is the Arduino code for the bluetooth sender and receiver inside the Rüttelflug wrist band.
 
 # Building instructions for BLE Nano 1 and 2
 Note: So far, Sender has only been built on BLE Nano 2 and receiver has only been built on BLE Nano 1 (1.0 and 1.5)
